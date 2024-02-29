@@ -14,4 +14,8 @@ A simple login page implemented using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+  ## Things To Note
+
+  - After entering the Submit button open your DevTools and check for the output 
+
   
