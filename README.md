@@ -14,5 +14,8 @@ A simple login page implemented using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+https://img.icons8.com/color/48/000000/html-5--v1.png
+https://img.icons8.com/color/48/000000/css3.png
+https://img.icons8.com/color/48/000000/javascript--v1.png
 
   
