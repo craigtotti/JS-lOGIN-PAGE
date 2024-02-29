@@ -1,6 +1,18 @@
 # JS-lOGIN-PAGE
 
-![](https://img.shields.io/badge/
-<WORD_LEFT>-<WORD_RIGHT>-informational
-?style=flat&logo=<LOGONAME>
-&logoColor=white&color=2bbc8a)
+A simple login page implemented using HTML, CSS, and JavaScript.
+
+## Features
+
+- User authentication with username and password
+- Responsive design for various screen sizes
+- Error handling for incorrect inputs
+
+- ## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+
+  
